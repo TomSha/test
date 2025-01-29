@@ -1,7 +1,6 @@
 #a comment
 a <- 1
 b <- 2
+<<<<<<< HEAD
 
-c <- a + b
-
-# here is another comment
+>>>>>>> parent of 6c3989c (added sum)
